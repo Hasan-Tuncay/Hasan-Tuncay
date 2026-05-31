@@ -1,50 +1,59 @@
-# Hi, I'm Hasan Tunçay 👋
-### Senior Android Developer & Technical Translator / Editor
+<p align="center">
+  <a href="https://linkedin.com/in/hasantuncay2635"><img src="https://img.shields.io/badge/LinkedIn-Hasan_Tuncay-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@hasantuncay2635"><img src="https://img.shields.io/badge/Medium-Hasan_Tuncay-black?style=flat-square&logo=medium" alt="Medium"/></a>
+  <a href="https://github.com/Hasan-Tuncay"><img src="https://img.shields.io/badge/GitHub-Hasan_Tuncay-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+</p>
 
-An Android Engineer focusing on high-performance mobile architectures, declarative UIs, and asynchronous programming. Beyond writing clean code, I bridge the gap between global technical literature and the local developer community by translating and technical-editing foundational books on Kotlin and Android internals.
+# Hasan Tunçay
+**Senior Android Developer | Technical Translator | Editor**
+
+Android Engineer focusing on high-performance mobile architectures, declarative UIs, and asynchronous programming.[cite: 1]
 
 ---
 
-## 📚 Technical Publications & Editorial Work
-*An HR manager or engineering lead should know: I don't just use these technologies; I reverse-engineer and deeply understand their documentation and core concepts down to the syllable.*
+### 📘 Kotlin Coroutines Book
+<a href="https://leanpub.com/kotlincoroutinestrke"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/coroutines_cover.jpg" width="130" alt="Kotlin Coroutines Cover" /></a>
 
-| Publication | Role | Core Focus | Publisher / Platform |
-| :--- | :--- | :--- | :--- |
-| **Kotlin Coroutines** <br>_by Marcin Moskała_ | Translator & Technical Editor | Asynchronous Programming, Structured Concurrency, Channels, Flows | [Leanpub](https://leanpub.com/kotlincoroutinestrke) |
-| **Atomic Kotlin** <br>_by Bruce Eckel & Svetlana Isakova_ | Translator & Technical Editor | Language Internals, Functional Programming, OOP Fundamentals | [Leanpub](https://leanpub.com/AtomicKotlin) |
-| **Manifest Android Interview** <br>_by Jaewoong Eum_ | Translator & Technical Editor | Advanced Android Architecture, Memory Management, Jetpack Suite | [Leanpub](https://leanpub.com/manifest-android-interview) |
+*Kotlin Coroutines* is a comprehensive guide to Asynchronous Programming, Structured Concurrency, Channels, and Flows.[cite: 1]
+* **Author:** Marcin Moskała[cite: 1]
+* **Role:** Translator & Technical Editor[cite: 1]
+* **Publisher:** Leanpub[cite: 1]
+
+<br><br>
+
+### 📙 Atomic Kotlin Book
+<a href="https://leanpub.com/AtomicKotlin"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/atomic_kotlin_cover.jpg" width="130" alt="Atomic Kotlin Cover" /></a>
+
+*Atomic Kotlin* covers Language Internals, Functional Programming, and OOP Fundamentals.[cite: 1]
+* **Authors:** Bruce Eckel and Svetlana Isakova[cite: 1]
+* **Role:** Translator & Technical Editor[cite: 1]
+* **Publisher:** Leanpub[cite: 1]
+
+<br><br>
+
+### 📗 Manifest Android Interview Book
+<a href="https://leanpub.com/manifest-android-interview"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/manifest_cover.jpg" width="130" alt="Manifest Android Interview Cover" /></a>
+
+*Manifest Android Interview* covers Advanced Android Architecture, Memory Management, and the Jetpack Suite.[cite: 1]
+* **Author:** Jaewoong Eum[cite: 1]
+* **Role:** Translator & Technical Editor[cite: 1]
+* **Publisher:** Leanpub[cite: 1]
+
+<br><br>
 
 ---
 
 ## 🛠️ Core Engineering Stack
 
-* **Languages & Paradigms:** Kotlin (Advanced), Java, Swift, Declarative Programming, Functional Programming.
-* **Android Architecture:** Jetpack Compose, Compose Multiplatform, Coroutines, Flows, Clean Architecture, MVVM, Dagger-Hilt.
-* **Under the Hood & Performance:** Custom Canvas drawing, Memory Leak Analysis (LeakCanary), Modularization.
-* **Full-Stack & DevOps:** Spring Boot (Kotlin), Angular, PostgreSQL, Docker, AWS (EC2), GitHub Actions (CI/CD).
+* **Languages:** Kotlin, Java, Swift.[cite: 1]
+* **Architecture:** Jetpack Compose, Compose Multiplatform, Coroutines, MVVM, Clean Architecture.[cite: 1]
+* **Full-Stack / Cloud:** Spring Boot (Kotlin), Angular, PostgreSQL, Docker, AWS EC2, GitHub Actions.[cite: 1]
 
 ---
 
-## 🚀 Key Open Source & Libraries
-*Selected work showing my low-level implementation skills:*
-
-* **[Custom Time工ickerLibrary](https://github.com/Hasan-Tuncay/Custom-TimePickerLibrary):** A highly customizable time picker built entirely using low-level **Jetpack Compose Canvas** drawing and math-based touch logic.
-* **[DocumentReader](https://github.com/Hasan-Tuncay/DocumentReader):** A custom library utilizing Apache Tika and PDFBox, optimized with Kotlin Coroutines for asynchronous document parsing.
-
- 
----
-
-## 📊 GitHub Metrics & Architecture Focus
+## 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Tuncay&show_icons=true&theme=dark&include_all_commits=true" height="150" alt="Hasan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Tuncay&layout=compact&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Tuncay&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="150" alt="Hasan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Tuncay&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
-
----
-
-## 📬 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/hasantuncay2635](https://linkedin.com/in/hasantuncay2635)
-* ✍️ **Medium (Technical Articles):** [@hasantuncay2635](https://medium.com/@hasantuncay2635)
-* 🐙 **GitLab:** [gitlab.com/Hasan-Tuncay](https://gitlab.com/Hasan-Tuncay)
-* 📧 **Email:** [hasantuncay2635@gmail.com](mailto:hasantuncay2635@gmail.com)
