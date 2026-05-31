@@ -33,41 +33,55 @@ Android Engineer focusing on high-performance mobile architectures, declarative 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
----
-### 📘 Kotlin Coroutines Book
+## 📚 Technical Publications & Editorial Work
+
+### 📘 [Kotlin Coroutines](https://leanpub.com/kotlincoroutinestrke)
 <a href="https://leanpub.com/kotlincoroutinestrke">
-  <img align="right" width="150" alt="Kotlin Coroutines Cover" src="https://github.com/user-attachments/assets/7e457191-f2bb-4497-a18f-2f9348a35e5f" />
+  <img align="right" width="140" alt="Kotlin Coroutines Cover" src="https://github.com/user-attachments/assets/7e457191-f2bb-4497-a18f-2f9348a35e5f" />
 </a>
 
-*Kotlin Coroutines* is a comprehensive guide to Asynchronous Programming, Structured Concurrency, Channels, and Flows.[cite: 1]
-* **Author:** Marcin Moskała[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
+* **Author:** Marcin Moskała
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Asynchronous Programming, Structured Concurrency, Channels, and Flows.
 
-<br><br>
+> *A comprehensive guide dissecting the internal mechanics of Kotlin's concurrency model and asynchronous programming paradigms.*
 
-### 📙 Atomic Kotlin Book
-<a href="https://leanpub.com/AtomicKotlin"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/atomic_kotlin_cover.jpg" width="130" alt="Atomic Kotlin Cover" /></a>
-
-*Atomic Kotlin* covers Language Internals, Functional Programming, and OOP Fundamentals.[cite: 1]
-* **Authors:** Bruce Eckel and Svetlana Isakova[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
-
-<br><br>
-
-### 📗 Manifest Android Interview Book
-<a href="https://leanpub.com/manifest-android-interview"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/manifest_cover.jpg" width="130" alt="Manifest Android Interview Cover" /></a>
-
-*Manifest Android Interview* covers Advanced Android Architecture, Memory Management, and the Jetpack Suite.[cite: 1]
-* **Author:** Jaewoong Eum[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
-
-<br><br>
+<br clear="right"/>
+<br>
 
 ---
 
+### 📙 [Atomic Kotlin](https://leanpub.com/AtomicKotlin)
+<a href="https://leanpub.com/AtomicKotlin">
+  <img align="right" width="140" alt="Atomic Kotlin Cover" src="https://github.com/user-attachments/assets/71a78b80-352a-44f1-8863-af7fa909077a" />
+</a>
+
+* **Authors:** Bruce Eckel & Svetlana Isakova
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Language Internals, Functional Programming, and OOP Fundamentals.
+
+> *An in-depth exploration of Kotlin's foundational concepts, emphasizing robust software design and functional paradigms.*
+
+<br clear="right"/>
+<br>
+
+---
+
+### 📗 [Manifest Android Interview](https://leanpub.com/manifest-android-interview)
+<a href="https://leanpub.com/manifest-android-interview">
+  <img align="right" width="140" alt="Manifest Android Interview Cover" src="https://github.com/user-attachments/assets/cf16bdaf-1e36-4a59-8d64-782230251d16" />
+</a>
+
+* **Author:** Jaewoong Eum
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Advanced Android Architecture, Memory Management, and the Jetpack Suite.
+
+> *A critical resource analyzing enterprise-level Android architecture, lifecycle complexities, and memory optimization.*
+
+<br clear="right"/>
 ## 🛠️ Core Engineering Stack
 
 * **Languages & Paradigms:** Kotlin, Java, Swift, Declarative Programming, Functional Programming, Reactive Programming.[cite: 1]
