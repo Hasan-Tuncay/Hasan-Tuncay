@@ -99,16 +99,17 @@
 <br>
 
 ## 🏗️ Open Source & Architectural Implementations
-* **[Custom TimePickerLibrary](https://github.com/Hasan-Tuncay/Custom-TimePickerLibrary):** A highly customizable time picker built entirely using low-level **Jetpack Compose Canvas** drawing and math-based touch logic.[cite: 1]
-* **[DocumentReader](https://github.com/Hasan-Tuncay/DocumentReader):** A custom library utilizing Apache Tika and PDFBox, optimized with **Kotlin Coroutines** for asynchronous document parsing.[cite: 1]
+* **[Custom TimePickerLibrary](https://github.com/Hasan-Tuncay/Custom-TimePickerLibrary):** A highly customizable time picker built entirely using low-level **Jetpack Compose Canvas** drawing and math-based touch logic. 
+ 
 
 ## 🚀 Selected Production Applications
-* **[Stylish AI](https://play.google.com/store/apps/details?id=com.hsntncy.stylish):** Native Android application leveraging FAL AI, ExoPlayer, and advanced Jetpack Compose UI architectures.[cite: 1]
-* **[FeelGood: Meditation & Relax](https://play.google.com/store/apps/details?id=com.clappy.feelgood):** Multi-platform media application built with **Compose Multiplatform** and event-driven paradigms.[cite: 1]
-* **[Psikoweb](https://www.psikoweb.net):** Full-stack enterprise solution engineered with **Spring Boot (Kotlin)**, Angular, and deployed via Docker on AWS EC2.[cite: 1]
+* **[Stylish AI](https://play.google.com/store/apps/details?id=com.hsntncy.stylish):** Native Android application leveraging FAL AI, ExoPlayer, and advanced Jetpack Compose UI architectures. 
+* **[FeelGood: Meditation & Relax](https://play.google.com/store/apps/details?id=com.clappy.feelgood):** Multi-platform media application built with **Compose Multiplatform** and event-driven paradigms. 
+* **[Psikoweb](https://www.psikoweb.net):** Full-stack enterprise solution engineered with **Spring Boot (Kotlin)**, Angular, and deployed via Docker on AWS EC2. 
 
 ## 🌍 Community Ecosystem
-* **DevEsk (Eskişehir Developer Community):** Active contributor to the local developer ecosystem, utilizing collaborative workspaces for knowledge distribution.
+* **[DevEsk](https://esk.dev/) (Eskişehir Developer Community):** Active contributor to the local developer ecosystem, utilizing collaborative workspaces for knowledge distribution.
+* **GDG Eskişehir:** Active community participant. Delivered a technical presentation as a speaker at DevFest 2025.
 
 <br>
 
