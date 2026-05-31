@@ -36,7 +36,9 @@ Android Engineer focusing on high-performance mobile architectures, declarative 
 ---
 
 ### 📘 Kotlin Coroutines Book
-<a href="https://leanpub.com/kotlincoroutinestrke"><img align="right" src="https://raw.githubusercontent.com/Hasan-Tuncay/Hasan-Tuncay/main/coroutines_cover.jpg" width="130" alt="Kotlin Coroutines Cover" /></a>
+<a href="https://leanpub.com/kotlincoroutinestrke">
+<img width="609" height="914" alt="image" src="https://github.com/user-attachments/assets/7e457191-f2bb-4497-a18f-2f9348a35e5f" /></a>
+
 
 *Kotlin Coroutines* is a comprehensive guide to Asynchronous Programming, Structured Concurrency, Channels, and Flows.[cite: 1]
 * **Author:** Marcin Moskała[cite: 1]
