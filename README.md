@@ -9,6 +9,19 @@
 
 Android Engineer focusing on high-performance mobile architectures, declarative UIs, and asynchronous programming.[cite: 1]
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
 ---
 
 ### 📘 Kotlin Coroutines Book
@@ -45,9 +58,12 @@ Android Engineer focusing on high-performance mobile architectures, declarative 
 
 ## 🛠️ Core Engineering Stack
 
-* **Languages:** Kotlin, Java, Swift.[cite: 1]
-* **Architecture:** Jetpack Compose, Compose Multiplatform, Coroutines, MVVM, Clean Architecture.[cite: 1]
-* **Full-Stack / Cloud:** Spring Boot (Kotlin), Angular, PostgreSQL, Docker, AWS EC2, GitHub Actions.[cite: 1]
+* **Languages & Paradigms:** Kotlin, Java, Swift, Declarative Programming, Functional Programming, Reactive Programming.[cite: 1]
+* **Android Architecture:** Jetpack Compose, Compose Multiplatform, MVVM Architecture, Clean Architecture, Modularization.[cite: 1]
+* **Asynchronous & State Management:** Kotlin Coroutines, Flows, StateFlow, LiveData, Event-Driven Architecture.[cite: 1]
+* **Libraries & Tools:** Dagger-Hilt (Dependency Injection), Retrofit, Room/SQLite, ExoPlayer, Custom Canvas, ML Kit.[cite: 1]
+* **Backend & Cloud:** Spring Boot (Kotlin), Angular, PostgreSQL, Firebase (Auth, Firestore, Realtime DB), AWS EC2, NGINX.[cite: 1]
+* **DevOps & CI/CD:** Docker, Docker Compose, Docker Swarm, GitHub Actions, GitLab CI, Gradle.[cite: 1]
 
 ---
 
