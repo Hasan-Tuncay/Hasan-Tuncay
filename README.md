@@ -101,20 +101,16 @@
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **Languages & Paradigms** | Kotlin, Java, Swift, Declarative / Functional / Reactive Programming.[cite: 1] |
-| **Android Architecture** | Jetpack Compose, Compose Multiplatform, Clean Architecture, MVVM, Modularization.[cite: 1] |
-| **State & Async** | Kotlin Coroutines, Flows, StateFlow, LiveData, Event-Driven Architecture.[cite: 1] |
-| **Libraries & Tools** | Dagger-Hilt, Retrofit, Room/SQLite, ExoPlayer, Custom Canvas, ML Kit.[cite: 1] |
-| **Backend & Cloud** | Spring Boot (Kotlin), Angular, PostgreSQL, Firebase Suite, AWS EC2, NGINX.[cite: 1] |
-| **DevOps & CI/CD** | Docker, Docker Compose, Docker Swarm, GitHub Actions, GitLab CI, Gradle.[cite: 1] |
+| **Languages & Paradigms** | Kotlin, Java, Swift, Declarative / Functional / Reactive Programming. |
+| **Android Architecture** | Jetpack Compose, Compose Multiplatform, Clean Architecture, MVVM, Modularization. |
+| **State & Async** | Kotlin Coroutines, Flows, StateFlow, LiveData, Event-Driven Architecture.  |
+| **Libraries & Tools** | Dagger-Hilt, Retrofit, Room/SQLite, ExoPlayer, Custom Canvas, ML Kit.  |
+| **Backend & Cloud** | Spring Boot (Kotlin), Angular, PostgreSQL, Firebase Suite, AWS EC2, NGINX. |
+| **DevOps & CI/CD** | Docker, Docker Compose, Docker Swarm, GitHub Actions, GitLab CI, Gradle.  |
 
 <br>
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Tuncay&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="150" alt="Hasan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Tuncay&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
+ 
  
