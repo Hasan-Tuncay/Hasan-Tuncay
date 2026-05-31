@@ -1,9 +1,8 @@
- 
 <div align="center">
   
   <h1>Hasan Tunçay</h1>
   <h3>Senior Android Developer | Technical Translator | Editor</h3>
-  <p><i>Android Engineer focusing on high-performance mobile architectures, declarative UIs, and asynchronous programming.</i>[cite: 1]</p>
+  <p><i>Android Engineer focusing on high-performance mobile architectures, declarative UIs, and asynchronous programming.</i></p>
 
   <p>
     <a href="https://linkedin.com/in/hasantuncay2635">
@@ -53,10 +52,10 @@
   <img align="right" width="140" alt="Kotlin Coroutines Cover" src="https://github.com/user-attachments/assets/7e457191-f2bb-4497-a18f-2f9348a35e5f" />
 </a>
 
-* **Author:** Marcin Moskała[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
-* **Core Focus:** Asynchronous Programming, Structured Concurrency, Channels, and Flows.[cite: 1]
+* **Author:** Marcin Moskała
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Asynchronous Programming, Structured Concurrency, Channels, and Flows.
 
 > *A comprehensive guide dissecting the internal mechanics of Kotlin's concurrency model and asynchronous programming paradigms.*
 
@@ -70,10 +69,10 @@
   <img align="right" width="140" alt="Atomic Kotlin Cover" src="https://github.com/user-attachments/assets/71a78b80-352a-44f1-8863-af7fa909077a" />
 </a>
 
-* **Authors:** Bruce Eckel & Svetlana Isakova[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
-* **Core Focus:** Language Internals, Functional Programming, and OOP Fundamentals.[cite: 1]
+* **Authors:** Bruce Eckel & Svetlana Isakova
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Language Internals, Functional Programming, and OOP Fundamentals.
 
 > *An in-depth exploration of Kotlin's foundational concepts, emphasizing robust software design and functional paradigms.*
 
@@ -87,30 +86,62 @@
   <img align="right" width="140" alt="Manifest Android Interview Cover" src="https://github.com/user-attachments/assets/cf16bdaf-1e36-4a59-8d64-782230251d16" />
 </a>
 
-* **Author:** Jaewoong Eum[cite: 1]
-* **Role:** Translator & Technical Editor[cite: 1]
-* **Publisher:** Leanpub[cite: 1]
-* **Core Focus:** Advanced Android Architecture, Memory Management, and the Jetpack Suite.[cite: 1]
+* **Author:** Jaewoong Eum
+* **Role:** Translator & Technical Editor
+* **Publisher:** Leanpub
+* **Core Focus:** Advanced Android Architecture, Memory Management, and the Jetpack Suite.
 
 > *A critical resource analyzing enterprise-level Android architecture, lifecycle complexities, and memory optimization.*
 
 <br clear="right"/>
 <br>
 
+## 🏗️ Open Source & Architectural Implementations
+* **[Custom TimePickerLibrary](https://github.com/Hasan-Tuncay/Custom-TimePickerLibrary):** A highly customizable time picker built entirely using low-level **Jetpack Compose Canvas** drawing and math-based touch logic.[cite: 1]
+* **[DocumentReader](https://github.com/Hasan-Tuncay/DocumentReader):** A custom library utilizing Apache Tika and PDFBox, optimized with **Kotlin Coroutines** for asynchronous document parsing.[cite: 1]
+
+## 🚀 Selected Production Applications
+* **[Stylish AI](https://play.google.com/store/apps/details?id=com.hsntncy.stylish):** Native Android application leveraging FAL AI, ExoPlayer, and advanced Jetpack Compose UI architectures.[cite: 1]
+* **[FeelGood: Meditation & Relax](https://play.google.com/store/apps/details?id=com.clappy.feelgood):** Multi-platform media application built with **Compose Multiplatform** and event-driven paradigms.[cite: 1]
+* **[Psikoweb](https://www.psikoweb.net):** Full-stack enterprise solution engineered with **Spring Boot (Kotlin)**, Angular, and deployed via Docker on AWS EC2.[cite: 1]
+
+## 🌍 Community Ecosystem
+* **DevEsk (Eskişehir Developer Community):** Active contributor to the local developer ecosystem, utilizing collaborative workspaces for knowledge distribution.
+
+<br>
+
 ## 🛠️ Core Engineering Stack
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **Languages & Paradigms** | Kotlin, Java, Swift, Declarative / Functional / Reactive Programming. |
-| **Android Architecture** | Jetpack Compose, Compose Multiplatform, Clean Architecture, MVVM, Modularization. |
-| **State & Async** | Kotlin Coroutines, Flows, StateFlow, LiveData, Event-Driven Architecture.  |
-| **Libraries & Tools** | Dagger-Hilt, Retrofit, Room/SQLite, ExoPlayer, Custom Canvas, ML Kit.  |
-| **Backend & Cloud** | Spring Boot (Kotlin), Angular, PostgreSQL, Firebase Suite, AWS EC2, NGINX. |
-| **DevOps & CI/CD** | Docker, Docker Compose, Docker Swarm, GitHub Actions, GitLab CI, Gradle.  |
+| **Languages & Paradigms** | Kotlin, Java, Swift, Declarative / Functional / Reactive Programming.[cite: 1] |
+| **Android Architecture** | Jetpack Compose, Compose Multiplatform, Clean Architecture, MVVM, Modularization.[cite: 1] |
+| **State & Async** | Kotlin Coroutines, Flows, StateFlow, LiveData, Event-Driven Architecture.[cite: 1] |
+| **Libraries & Tools** | Dagger-Hilt, Retrofit, Room/SQLite, ExoPlayer, Custom Canvas, ML Kit.[cite: 1] |
+| **Backend & Cloud** | Spring Boot (Kotlin), Angular, PostgreSQL, Firebase Suite, AWS EC2, NGINX.[cite: 1] |
+| **DevOps & CI/CD** | Docker, Docker Compose, Docker Swarm, GitHub Actions, GitLab CI, Gradle.[cite: 1] |
 
 <br>
 
 ## 📊 GitHub Metrics
 
- 
- 
+<div align="center">
+  <a href="https://github.com/Hasan-Tuncay">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Tuncay&show_icons=true&theme=transparent&hide_border=true" alt="Hasan's Stats" />
+  </a>
+  <a href="https://github.com/Hasan-Tuncay">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Tuncay&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+---
+
+## 📬 Let's Connect
+<div align="center">
+  <p><b>Open to discussing advanced mobile architectures, technical translation projects, and Senior engineering roles.</b></p>
+  <a href="mailto:hasantuncay2635@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-hasantuncay2635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
