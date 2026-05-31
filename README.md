@@ -8,6 +8,12 @@
   <a href="https://github.com/Hasan-Tuncay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://gitlab.com/Hasan-Tuncay">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="https://x.com/yacnutnasah">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 # Hasan Tunçay
 **Senior Android Developer | Technical Translator | Editor**
